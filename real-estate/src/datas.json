@@ -1,0 +1,62 @@
+[
+  {
+    "city": "Paris",
+    "price": 100000,
+    "size": 80,
+    "image": [
+      "https://media.gettyimages.com/id/1293762741/fr/photo/int%C3%A9rieur-moderne-de-salle-de-vie-rendu-3d.jpg?s=1024x1024&w=gi&k=20&c=E7x055f2FV82sgbSPQFEHHZJpDemgH8qP5y1APkCO9s=",
+      "https://media.gettyimages.com/id/1266344111/fr/photo/design-int%C3%A9rieur-moderne-de-salon-en-3d.jpg?s=1024x1024&w=gi&k=20&c=PzWOijIaJRZb34p5jh3UefY8ibn2gUtqiiFWHQ_Jkss=",
+      "https://media.gettyimages.com/id/1281887666/fr/photo/cityscape-with-modern-residential-area-new-apartment-buildings-and-green-courtyard-with.jpg?s=1024x1024&w=gi&k=20&c=LW1ypuCuZVVWXtfJbiFbSmX_iY3tjvwkIqVUz_ry8Ec="
+    ]
+  },
+  {
+    "city": "Marseille",
+    "price": 100000,
+    "size": 80,
+    "image": [
+      "https://media.gettyimages.com/id/1293762741/fr/photo/int%C3%A9rieur-moderne-de-salle-de-vie-rendu-3d.jpg?s=1024x1024&w=gi&k=20&c=E7x055f2FV82sgbSPQFEHHZJpDemgH8qP5y1APkCO9s=",
+      "https://media.gettyimages.com/id/1266344111/fr/photo/design-int%C3%A9rieur-moderne-de-salon-en-3d.jpg?s=1024x1024&w=gi&k=20&c=PzWOijIaJRZb34p5jh3UefY8ibn2gUtqiiFWHQ_Jkss=",
+      "https://media.gettyimages.com/id/1281887666/fr/photo/cityscape-with-modern-residential-area-new-apartment-buildings-and-green-courtyard-with.jpg?s=1024x1024&w=gi&k=20&c=LW1ypuCuZVVWXtfJbiFbSmX_iY3tjvwkIqVUz_ry8Ec="
+    ]
+  },
+  {
+    "city": "Lyon",
+    "price": 100000,
+    "size": 80,
+    "image": [
+      "https://media.gettyimages.com/id/1293762741/fr/photo/int%C3%A9rieur-moderne-de-salle-de-vie-rendu-3d.jpg?s=1024x1024&w=gi&k=20&c=E7x055f2FV82sgbSPQFEHHZJpDemgH8qP5y1APkCO9s=",
+      "https://media.gettyimages.com/id/1266344111/fr/photo/design-int%C3%A9rieur-moderne-de-salon-en-3d.jpg?s=1024x1024&w=gi&k=20&c=PzWOijIaJRZb34p5jh3UefY8ibn2gUtqiiFWHQ_Jkss=",
+      "https://media.gettyimages.com/id/1281887666/fr/photo/cityscape-with-modern-residential-area-new-apartment-buildings-and-green-courtyard-with.jpg?s=1024x1024&w=gi&k=20&c=LW1ypuCuZVVWXtfJbiFbSmX_iY3tjvwkIqVUz_ry8Ec="
+    ]
+  },
+  {
+    "city": "Bordeaux",
+    "price": 100000,
+    "size": 80,
+    "image": [
+      "https://media.gettyimages.com/id/1293762741/fr/photo/int%C3%A9rieur-moderne-de-salle-de-vie-rendu-3d.jpg?s=1024x1024&w=gi&k=20&c=E7x055f2FV82sgbSPQFEHHZJpDemgH8qP5y1APkCO9s=",
+      "https://media.gettyimages.com/id/1266344111/fr/photo/design-int%C3%A9rieur-moderne-de-salon-en-3d.jpg?s=1024x1024&w=gi&k=20&c=PzWOijIaJRZb34p5jh3UefY8ibn2gUtqiiFWHQ_Jkss=",
+      "https://media.gettyimages.com/id/1281887666/fr/photo/cityscape-with-modern-residential-area-new-apartment-buildings-and-green-courtyard-with.jpg?s=1024x1024&w=gi&k=20&c=LW1ypuCuZVVWXtfJbiFbSmX_iY3tjvwkIqVUz_ry8Ec="
+    ]
+  },
+  {
+    "city": "Lille",
+    "price": 100000,
+    "size": 80,
+    "image": [
+      "https://media.gettyimages.com/id/1293762741/fr/photo/int%C3%A9rieur-moderne-de-salle-de-vie-rendu-3d.jpg?s=1024x1024&w=gi&k=20&c=E7x055f2FV82sgbSPQFEHHZJpDemgH8qP5y1APkCO9s=",
+      "https://media.gettyimages.com/id/1266344111/fr/photo/design-int%C3%A9rieur-moderne-de-salon-en-3d.jpg?s=1024x1024&w=gi&k=20&c=PzWOijIaJRZb34p5jh3UefY8ibn2gUtqiiFWHQ_Jkss=",
+      "https://media.gettyimages.com/id/1281887666/fr/photo/cityscape-with-modern-residential-area-new-apartment-buildings-and-green-courtyard-with.jpg?s=1024x1024&w=gi&k=20&c=LW1ypuCuZVVWXtfJbiFbSmX_iY3tjvwkIqVUz_ry8Ec="
+    ]
+  },
+  {
+    "city": "Rennes",
+    "price": 100000,
+    "size": 80,
+    "image": [
+      "https://media.gettyimages.com/id/1293762741/fr/photo/int%C3%A9rieur-moderne-de-salle-de-vie-rendu-3d.jpg?s=1024x1024&w=gi&k=20&c=E7x055f2FV82sgbSPQFEHHZJpDemgH8qP5y1APkCO9s=",
+      "https://media.gettyimages.com/id/1266344111/fr/photo/design-int%C3%A9rieur-moderne-de-salon-en-3d.jpg?s=1024x1024&w=gi&k=20&c=PzWOijIaJRZb34p5jh3UefY8ibn2gUtqiiFWHQ_Jkss=",
+      "https://media.gettyimages.com/id/1281887666/fr/photo/cityscape-with-modern-residential-area-new-apartment-buildings-and-green-courtyard-with.jpg?s=1024x1024&w=gi&k=20&c=LW1ypuCuZVVWXtfJbiFbSmX_iY3tjvwkIqVUz_ry8Ec="
+    ]
+  }
+]
